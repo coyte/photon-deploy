@@ -5,3 +5,4 @@ export NEWPW=mypasswd #new root password
 export IPADDR=10.10.10.10/24 #IP address in CIDR notation
 export GATEWAY=10.10.10.1 # Gateway IP address
 export DNS=10.10.10.1 # IP address of the DNS server
+
