@@ -34,5 +34,5 @@ tdnf update
 tdnf -y install 
 
 #Add rclone for public storage mount
-curl https://rclone.org/install.sh | sudo bash
+curl -s https://rclone.org/install.sh | sudo bash
 
