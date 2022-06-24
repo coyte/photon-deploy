@@ -1,3 +1,15 @@
+### This script prepares a deployed photon os for use
+### Sets IP addres, hostname and password
+### Update packages
+### Configures sshd
+### Installs rclone
+
+### Usage:
+### Source the edited env-vars.sh
+### Run from the console in the hypervisor (proxmox, esxi, ...) 
+### curl -s <script URL> | bash
+
+
 #!/bin/bash
 
 #Set IP address
